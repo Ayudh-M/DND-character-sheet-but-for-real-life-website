@@ -1,0 +1,54 @@
+
+:root {
+  --slate-50: #f8fafc;
+  --indigo-50: #eef2ff;
+  --slate-100: #f1f5f9;
+  --slate-200: #e2e8f0;
+  --slate-300: #cbd5e1;
+  --slate-500: #64748b;
+  --slate-600: #475569;
+  --slate-700: #334155;
+  --slate-800: #1f2937;
+  --indigo-600: #4f46e5;
+  --indigo-700: #4338ca;
+  --white: #fff;
+}
+.card {
+  border-radius: 1rem; padding: 1.25rem;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+  background: rgba(255,255,255,0.8);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--slate-200);
+}
+.section-title { font-size: 1.125rem; font-weight: 600; color: var(--slate-800); }
+.muted { color: var(--slate-600); }
+.badge {
+  display: inline-flex; align-items: center; gap: 0.25rem;
+  border-radius: 9999px; padding: 0.125rem 0.5rem;
+  font-size: 0.75rem; font-weight: 600; background: var(--slate-100); color: #334155; border: 1px solid var(--slate-200);
+}
+.stat-label { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.75rem; font-weight: 700; color: #64748b; display:block; margin-bottom: 0.25rem; }
+.input {
+  width: 100%; border-radius: 0.5rem; border: 1px solid var(--slate-300);
+  padding: 0.5rem 0.75rem; outline: none;
+}
+.input:focus { box-shadow: 0 0 0 2px rgba(79,70,229,0.4); border-color: var(--indigo-600); }
+.btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  gap: 0.5rem; border-radius: 0.75rem; border: 1px solid var(--slate-300);
+  padding: 0.5rem 0.75rem; font-weight: 600; transition: transform 0.05s ease;
+  background: var(--white); color: #334155;
+}
+.btn:hover { background: #f8fafc; }
+.btn:active { transform: scale(0.99); }
+.btn-primary { background: var(--indigo-600); color: white; border-color: var(--indigo-600); }
+.btn-primary:hover { background: var(--indigo-700); }
+.kpi { font-size: 0.95rem; color: #334155; }
+.kpi strong { color: #111827; }
+.modal { display:none; }
+.modal[open] { display:block; }
+.link { color: var(--indigo-600); text-decoration: underline; text-underline-offset: 4px; }
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+.desc-table td, .desc-table th { padding: 0.5rem; border-bottom: 1px solid var(--slate-200); font-size: 0.9rem; }
+.desc-table th { text-align: left; color: var(--slate-700); }
+.desc-table tr:hover { background: #f8fafc; }

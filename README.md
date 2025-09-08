@@ -1,2 +1,19 @@
-# DND character sheet but for real life website
-Essentially I was wondering if I would be taken into a DND world what would my character look like and wanted to create a website that I could host on githb pages that would allow one to read descriptions of characters and  potentially make a character sheet of themselves and also give themselves buffs, debuffs and skills,with the ultimage goal being gamification of real life to make life more fun and to also gague and understand yourself better to live a better life, I may also add some basic quizes later for each stat to give the character a reccomendation on where their stat value actually lies
+# D&D IRL Character Sheet — Modular Version
+
+This is the **modular** edition of the static site. Files are split by concern:
+
+```
+/
+├─ index.html         # Minimal HTML shell
+├─ styles.css         # Visual styles (no build step)
+└─ js/
+   ├─ util.js         # Helpers (DOM, cookies, math)
+   ├─ stats.js        # Stat descriptors & scales
+   ├─ ui.js           # Card UI & modal
+   ├─ portrait.js     # Image upload/preview
+   ├─ storage.js      # Local save, export/import, apply/gather state
+   ├─ github.js       # GitHub Contents API sync (no server)
+   └─ main.js         # Entry point
+```
+
+Host on GitHub Pages exactly like the single-file version — no build process needed. The scripts use **ES modules**, so `type="module"` is set in `index.html`.
