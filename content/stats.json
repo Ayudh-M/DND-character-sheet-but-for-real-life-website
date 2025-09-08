@@ -810,3 +810,815 @@
     }
   }
 }
+{
+  "version": 1,
+  "titles": [
+    "Pitiful",
+    "Feeble",
+    "Very Weak",
+    "Frail",
+    "Weak",
+    "Below Average",
+    "Meager",
+    "Middling",
+    "Ordinary",
+    "Average",
+    "Able",
+    "Capable",
+    "Fit",
+    "Sturdy",
+    "Strong",
+    "Very Strong",
+    "Mighty",
+    "Elite",
+    "Exceptional",
+    "World-Class",
+    "Phenomenal",
+    "Legendary",
+    "Mythic",
+    "Titanic",
+    "Herculean"
+  ],
+  "stats": {
+    "STR": {
+      "name": "Strength",
+      "levels": {
+        "1": {
+          "title": "Pitiful",
+          "human": "Placeholder description for Strength 1.",
+          "metrics": "Placeholder metrics for Strength 1."
+        },
+        "2": {
+          "title": "Feeble",
+          "human": "Placeholder description for Strength 2.",
+          "metrics": "Placeholder metrics for Strength 2."
+        },
+        "3": {
+          "title": "Very Weak",
+          "human": "Placeholder description for Strength 3.",
+          "metrics": "Placeholder metrics for Strength 3."
+        },
+        "4": {
+          "title": "Frail",
+          "human": "Placeholder description for Strength 4.",
+          "metrics": "Placeholder metrics for Strength 4."
+        },
+        "5": {
+          "title": "Weak",
+          "human": "Placeholder description for Strength 5.",
+          "metrics": "Placeholder metrics for Strength 5."
+        },
+        "6": {
+          "title": "Below Average",
+          "human": "Placeholder description for Strength 6.",
+          "metrics": "Placeholder metrics for Strength 6."
+        },
+        "7": {
+          "title": "Meager",
+          "human": "Placeholder description for Strength 7.",
+          "metrics": "Placeholder metrics for Strength 7."
+        },
+        "8": {
+          "title": "Middling",
+          "human": "Placeholder description for Strength 8.",
+          "metrics": "Placeholder metrics for Strength 8."
+        },
+        "9": {
+          "title": "Ordinary",
+          "human": "Placeholder description for Strength 9.",
+          "metrics": "Placeholder metrics for Strength 9."
+        },
+        "10": {
+          "title": "Average",
+          "human": "Placeholder description for Strength 10.",
+          "metrics": "Placeholder metrics for Strength 10."
+        },
+        "11": {
+          "title": "Able",
+          "human": "Placeholder description for Strength 11.",
+          "metrics": "Placeholder metrics for Strength 11."
+        },
+        "12": {
+          "title": "Capable",
+          "human": "Placeholder description for Strength 12.",
+          "metrics": "Placeholder metrics for Strength 12."
+        },
+        "13": {
+          "title": "Fit",
+          "human": "Placeholder description for Strength 13.",
+          "metrics": "Placeholder metrics for Strength 13."
+        },
+        "14": {
+          "title": "Sturdy",
+          "human": "Placeholder description for Strength 14.",
+          "metrics": "Placeholder metrics for Strength 14."
+        },
+        "15": {
+          "title": "Strong",
+          "human": "Placeholder description for Strength 15.",
+          "metrics": "Placeholder metrics for Strength 15."
+        },
+        "16": {
+          "title": "Very Strong",
+          "human": "Placeholder description for Strength 16.",
+          "metrics": "Placeholder metrics for Strength 16."
+        },
+        "17": {
+          "title": "Mighty",
+          "human": "Placeholder description for Strength 17.",
+          "metrics": "Placeholder metrics for Strength 17."
+        },
+        "18": {
+          "title": "Elite",
+          "human": "Placeholder description for Strength 18.",
+          "metrics": "Placeholder metrics for Strength 18."
+        },
+        "19": {
+          "title": "Exceptional",
+          "human": "Placeholder description for Strength 19.",
+          "metrics": "Placeholder metrics for Strength 19."
+        },
+        "20": {
+          "title": "World-Class",
+          "human": "Placeholder description for Strength 20.",
+          "metrics": "Placeholder metrics for Strength 20."
+        },
+        "21": {
+          "title": "Phenomenal",
+          "human": "Placeholder description for Strength 21.",
+          "metrics": "Placeholder metrics for Strength 21."
+        },
+        "22": {
+          "title": "Legendary",
+          "human": "Placeholder description for Strength 22.",
+          "metrics": "Placeholder metrics for Strength 22."
+        },
+        "23": {
+          "title": "Mythic",
+          "human": "Placeholder description for Strength 23.",
+          "metrics": "Placeholder metrics for Strength 23."
+        },
+        "24": {
+          "title": "Titanic",
+          "human": "Placeholder description for Strength 24.",
+          "metrics": "Placeholder metrics for Strength 24."
+        },
+        "25": {
+          "title": "Herculean",
+          "human": "Placeholder description for Strength 25.",
+          "metrics": "Placeholder metrics for Strength 25."
+        }
+      }
+    },
+    "DEX": {
+      "name": "Dexterity",
+      "levels": {
+        "1": {
+          "title": "Pitiful",
+          "human": "Placeholder description for Dexterity 1.",
+          "metrics": "Placeholder metrics for Dexterity 1."
+        },
+        "2": {
+          "title": "Feeble",
+          "human": "Placeholder description for Dexterity 2.",
+          "metrics": "Placeholder metrics for Dexterity 2."
+        },
+        "3": {
+          "title": "Very Weak",
+          "human": "Placeholder description for Dexterity 3.",
+          "metrics": "Placeholder metrics for Dexterity 3."
+        },
+        "4": {
+          "title": "Frail",
+          "human": "Placeholder description for Dexterity 4.",
+          "metrics": "Placeholder metrics for Dexterity 4."
+        },
+        "5": {
+          "title": "Weak",
+          "human": "Placeholder description for Dexterity 5.",
+          "metrics": "Placeholder metrics for Dexterity 5."
+        },
+        "6": {
+          "title": "Below Average",
+          "human": "Placeholder description for Dexterity 6.",
+          "metrics": "Placeholder metrics for Dexterity 6."
+        },
+        "7": {
+          "title": "Meager",
+          "human": "Placeholder description for Dexterity 7.",
+          "metrics": "Placeholder metrics for Dexterity 7."
+        },
+        "8": {
+          "title": "Middling",
+          "human": "Placeholder description for Dexterity 8.",
+          "metrics": "Placeholder metrics for Dexterity 8."
+        },
+        "9": {
+          "title": "Ordinary",
+          "human": "Placeholder description for Dexterity 9.",
+          "metrics": "Placeholder metrics for Dexterity 9."
+        },
+        "10": {
+          "title": "Average",
+          "human": "Placeholder description for Dexterity 10.",
+          "metrics": "Placeholder metrics for Dexterity 10."
+        },
+        "11": {
+          "title": "Able",
+          "human": "Placeholder description for Dexterity 11.",
+          "metrics": "Placeholder metrics for Dexterity 11."
+        },
+        "12": {
+          "title": "Capable",
+          "human": "Placeholder description for Dexterity 12.",
+          "metrics": "Placeholder metrics for Dexterity 12."
+        },
+        "13": {
+          "title": "Fit",
+          "human": "Placeholder description for Dexterity 13.",
+          "metrics": "Placeholder metrics for Dexterity 13."
+        },
+        "14": {
+          "title": "Sturdy",
+          "human": "Placeholder description for Dexterity 14.",
+          "metrics": "Placeholder metrics for Dexterity 14."
+        },
+        "15": {
+          "title": "Strong",
+          "human": "Placeholder description for Dexterity 15.",
+          "metrics": "Placeholder metrics for Dexterity 15."
+        },
+        "16": {
+          "title": "Very Strong",
+          "human": "Placeholder description for Dexterity 16.",
+          "metrics": "Placeholder metrics for Dexterity 16."
+        },
+        "17": {
+          "title": "Mighty",
+          "human": "Placeholder description for Dexterity 17.",
+          "metrics": "Placeholder metrics for Dexterity 17."
+        },
+        "18": {
+          "title": "Elite",
+          "human": "Placeholder description for Dexterity 18.",
+          "metrics": "Placeholder metrics for Dexterity 18."
+        },
+        "19": {
+          "title": "Exceptional",
+          "human": "Placeholder description for Dexterity 19.",
+          "metrics": "Placeholder metrics for Dexterity 19."
+        },
+        "20": {
+          "title": "World-Class",
+          "human": "Placeholder description for Dexterity 20.",
+          "metrics": "Placeholder metrics for Dexterity 20."
+        },
+        "21": {
+          "title": "Phenomenal",
+          "human": "Placeholder description for Dexterity 21.",
+          "metrics": "Placeholder metrics for Dexterity 21."
+        },
+        "22": {
+          "title": "Legendary",
+          "human": "Placeholder description for Dexterity 22.",
+          "metrics": "Placeholder metrics for Dexterity 22."
+        },
+        "23": {
+          "title": "Mythic",
+          "human": "Placeholder description for Dexterity 23.",
+          "metrics": "Placeholder metrics for Dexterity 23."
+        },
+        "24": {
+          "title": "Titanic",
+          "human": "Placeholder description for Dexterity 24.",
+          "metrics": "Placeholder metrics for Dexterity 24."
+        },
+        "25": {
+          "title": "Herculean",
+          "human": "Placeholder description for Dexterity 25.",
+          "metrics": "Placeholder metrics for Dexterity 25."
+        }
+      }
+    },
+    "CON": {
+      "name": "Constitution",
+      "levels": {
+        "1": {
+          "title": "Pitiful",
+          "human": "Placeholder description for Constitution 1.",
+          "metrics": "Placeholder metrics for Constitution 1."
+        },
+        "2": {
+          "title": "Feeble",
+          "human": "Placeholder description for Constitution 2.",
+          "metrics": "Placeholder metrics for Constitution 2."
+        },
+        "3": {
+          "title": "Very Weak",
+          "human": "Placeholder description for Constitution 3.",
+          "metrics": "Placeholder metrics for Constitution 3."
+        },
+        "4": {
+          "title": "Frail",
+          "human": "Placeholder description for Constitution 4.",
+          "metrics": "Placeholder metrics for Constitution 4."
+        },
+        "5": {
+          "title": "Weak",
+          "human": "Placeholder description for Constitution 5.",
+          "metrics": "Placeholder metrics for Constitution 5."
+        },
+        "6": {
+          "title": "Below Average",
+          "human": "Placeholder description for Constitution 6.",
+          "metrics": "Placeholder metrics for Constitution 6."
+        },
+        "7": {
+          "title": "Meager",
+          "human": "Placeholder description for Constitution 7.",
+          "metrics": "Placeholder metrics for Constitution 7."
+        },
+        "8": {
+          "title": "Middling",
+          "human": "Placeholder description for Constitution 8.",
+          "metrics": "Placeholder metrics for Constitution 8."
+        },
+        "9": {
+          "title": "Ordinary",
+          "human": "Placeholder description for Constitution 9.",
+          "metrics": "Placeholder metrics for Constitution 9."
+        },
+        "10": {
+          "title": "Average",
+          "human": "Placeholder description for Constitution 10.",
+          "metrics": "Placeholder metrics for Constitution 10."
+        },
+        "11": {
+          "title": "Able",
+          "human": "Placeholder description for Constitution 11.",
+          "metrics": "Placeholder metrics for Constitution 11."
+        },
+        "12": {
+          "title": "Capable",
+          "human": "Placeholder description for Constitution 12.",
+          "metrics": "Placeholder metrics for Constitution 12."
+        },
+        "13": {
+          "title": "Fit",
+          "human": "Placeholder description for Constitution 13.",
+          "metrics": "Placeholder metrics for Constitution 13."
+        },
+        "14": {
+          "title": "Sturdy",
+          "human": "Placeholder description for Constitution 14.",
+          "metrics": "Placeholder metrics for Constitution 14."
+        },
+        "15": {
+          "title": "Strong",
+          "human": "Placeholder description for Constitution 15.",
+          "metrics": "Placeholder metrics for Constitution 15."
+        },
+        "16": {
+          "title": "Very Strong",
+          "human": "Placeholder description for Constitution 16.",
+          "metrics": "Placeholder metrics for Constitution 16."
+        },
+        "17": {
+          "title": "Mighty",
+          "human": "Placeholder description for Constitution 17.",
+          "metrics": "Placeholder metrics for Constitution 17."
+        },
+        "18": {
+          "title": "Elite",
+          "human": "Placeholder description for Constitution 18.",
+          "metrics": "Placeholder metrics for Constitution 18."
+        },
+        "19": {
+          "title": "Exceptional",
+          "human": "Placeholder description for Constitution 19.",
+          "metrics": "Placeholder metrics for Constitution 19."
+        },
+        "20": {
+          "title": "World-Class",
+          "human": "Placeholder description for Constitution 20.",
+          "metrics": "Placeholder metrics for Constitution 20."
+        },
+        "21": {
+          "title": "Phenomenal",
+          "human": "Placeholder description for Constitution 21.",
+          "metrics": "Placeholder metrics for Constitution 21."
+        },
+        "22": {
+          "title": "Legendary",
+          "human": "Placeholder description for Constitution 22.",
+          "metrics": "Placeholder metrics for Constitution 22."
+        },
+        "23": {
+          "title": "Mythic",
+          "human": "Placeholder description for Constitution 23.",
+          "metrics": "Placeholder metrics for Constitution 23."
+        },
+        "24": {
+          "title": "Titanic",
+          "human": "Placeholder description for Constitution 24.",
+          "metrics": "Placeholder metrics for Constitution 24."
+        },
+        "25": {
+          "title": "Herculean",
+          "human": "Placeholder description for Constitution 25.",
+          "metrics": "Placeholder metrics for Constitution 25."
+        }
+      }
+    },
+    "INT": {
+      "name": "Intelligence",
+      "levels": {
+        "1": {
+          "title": "Pitiful",
+          "human": "Placeholder description for Intelligence 1.",
+          "metrics": "Placeholder metrics for Intelligence 1."
+        },
+        "2": {
+          "title": "Feeble",
+          "human": "Placeholder description for Intelligence 2.",
+          "metrics": "Placeholder metrics for Intelligence 2."
+        },
+        "3": {
+          "title": "Very Weak",
+          "human": "Placeholder description for Intelligence 3.",
+          "metrics": "Placeholder metrics for Intelligence 3."
+        },
+        "4": {
+          "title": "Frail",
+          "human": "Placeholder description for Intelligence 4.",
+          "metrics": "Placeholder metrics for Intelligence 4."
+        },
+        "5": {
+          "title": "Weak",
+          "human": "Placeholder description for Intelligence 5.",
+          "metrics": "Placeholder metrics for Intelligence 5."
+        },
+        "6": {
+          "title": "Below Average",
+          "human": "Placeholder description for Intelligence 6.",
+          "metrics": "Placeholder metrics for Intelligence 6."
+        },
+        "7": {
+          "title": "Meager",
+          "human": "Placeholder description for Intelligence 7.",
+          "metrics": "Placeholder metrics for Intelligence 7."
+        },
+        "8": {
+          "title": "Middling",
+          "human": "Placeholder description for Intelligence 8.",
+          "metrics": "Placeholder metrics for Intelligence 8."
+        },
+        "9": {
+          "title": "Ordinary",
+          "human": "Placeholder description for Intelligence 9.",
+          "metrics": "Placeholder metrics for Intelligence 9."
+        },
+        "10": {
+          "title": "Average",
+          "human": "Placeholder description for Intelligence 10.",
+          "metrics": "Placeholder metrics for Intelligence 10."
+        },
+        "11": {
+          "title": "Able",
+          "human": "Placeholder description for Intelligence 11.",
+          "metrics": "Placeholder metrics for Intelligence 11."
+        },
+        "12": {
+          "title": "Capable",
+          "human": "Placeholder description for Intelligence 12.",
+          "metrics": "Placeholder metrics for Intelligence 12."
+        },
+        "13": {
+          "title": "Fit",
+          "human": "Placeholder description for Intelligence 13.",
+          "metrics": "Placeholder metrics for Intelligence 13."
+        },
+        "14": {
+          "title": "Sturdy",
+          "human": "Placeholder description for Intelligence 14.",
+          "metrics": "Placeholder metrics for Intelligence 14."
+        },
+        "15": {
+          "title": "Strong",
+          "human": "Placeholder description for Intelligence 15.",
+          "metrics": "Placeholder metrics for Intelligence 15."
+        },
+        "16": {
+          "title": "Very Strong",
+          "human": "Placeholder description for Intelligence 16.",
+          "metrics": "Placeholder metrics for Intelligence 16."
+        },
+        "17": {
+          "title": "Mighty",
+          "human": "Placeholder description for Intelligence 17.",
+          "metrics": "Placeholder metrics for Intelligence 17."
+        },
+        "18": {
+          "title": "Elite",
+          "human": "Placeholder description for Intelligence 18.",
+          "metrics": "Placeholder metrics for Intelligence 18."
+        },
+        "19": {
+          "title": "Exceptional",
+          "human": "Placeholder description for Intelligence 19.",
+          "metrics": "Placeholder metrics for Intelligence 19."
+        },
+        "20": {
+          "title": "World-Class",
+          "human": "Placeholder description for Intelligence 20.",
+          "metrics": "Placeholder metrics for Intelligence 20."
+        },
+        "21": {
+          "title": "Phenomenal",
+          "human": "Placeholder description for Intelligence 21.",
+          "metrics": "Placeholder metrics for Intelligence 21."
+        },
+        "22": {
+          "title": "Legendary",
+          "human": "Placeholder description for Intelligence 22.",
+          "metrics": "Placeholder metrics for Intelligence 22."
+        },
+        "23": {
+          "title": "Mythic",
+          "human": "Placeholder description for Intelligence 23.",
+          "metrics": "Placeholder metrics for Intelligence 23."
+        },
+        "24": {
+          "title": "Titanic",
+          "human": "Placeholder description for Intelligence 24.",
+          "metrics": "Placeholder metrics for Intelligence 24."
+        },
+        "25": {
+          "title": "Herculean",
+          "human": "Placeholder description for Intelligence 25.",
+          "metrics": "Placeholder metrics for Intelligence 25."
+        }
+      }
+    },
+    "WIS": {
+      "name": "Wisdom (EQ)",
+      "levels": {
+        "1": {
+          "title": "Pitiful",
+          "human": "Placeholder description for Wisdom (EQ) 1.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 1."
+        },
+        "2": {
+          "title": "Feeble",
+          "human": "Placeholder description for Wisdom (EQ) 2.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 2."
+        },
+        "3": {
+          "title": "Very Weak",
+          "human": "Placeholder description for Wisdom (EQ) 3.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 3."
+        },
+        "4": {
+          "title": "Frail",
+          "human": "Placeholder description for Wisdom (EQ) 4.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 4."
+        },
+        "5": {
+          "title": "Weak",
+          "human": "Placeholder description for Wisdom (EQ) 5.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 5."
+        },
+        "6": {
+          "title": "Below Average",
+          "human": "Placeholder description for Wisdom (EQ) 6.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 6."
+        },
+        "7": {
+          "title": "Meager",
+          "human": "Placeholder description for Wisdom (EQ) 7.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 7."
+        },
+        "8": {
+          "title": "Middling",
+          "human": "Placeholder description for Wisdom (EQ) 8.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 8."
+        },
+        "9": {
+          "title": "Ordinary",
+          "human": "Placeholder description for Wisdom (EQ) 9.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 9."
+        },
+        "10": {
+          "title": "Average",
+          "human": "Placeholder description for Wisdom (EQ) 10.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 10."
+        },
+        "11": {
+          "title": "Able",
+          "human": "Placeholder description for Wisdom (EQ) 11.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 11."
+        },
+        "12": {
+          "title": "Capable",
+          "human": "Placeholder description for Wisdom (EQ) 12.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 12."
+        },
+        "13": {
+          "title": "Fit",
+          "human": "Placeholder description for Wisdom (EQ) 13.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 13."
+        },
+        "14": {
+          "title": "Sturdy",
+          "human": "Placeholder description for Wisdom (EQ) 14.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 14."
+        },
+        "15": {
+          "title": "Strong",
+          "human": "Placeholder description for Wisdom (EQ) 15.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 15."
+        },
+        "16": {
+          "title": "Very Strong",
+          "human": "Placeholder description for Wisdom (EQ) 16.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 16."
+        },
+        "17": {
+          "title": "Mighty",
+          "human": "Placeholder description for Wisdom (EQ) 17.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 17."
+        },
+        "18": {
+          "title": "Elite",
+          "human": "Placeholder description for Wisdom (EQ) 18.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 18."
+        },
+        "19": {
+          "title": "Exceptional",
+          "human": "Placeholder description for Wisdom (EQ) 19.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 19."
+        },
+        "20": {
+          "title": "World-Class",
+          "human": "Placeholder description for Wisdom (EQ) 20.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 20."
+        },
+        "21": {
+          "title": "Phenomenal",
+          "human": "Placeholder description for Wisdom (EQ) 21.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 21."
+        },
+        "22": {
+          "title": "Legendary",
+          "human": "Placeholder description for Wisdom (EQ) 22.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 22."
+        },
+        "23": {
+          "title": "Mythic",
+          "human": "Placeholder description for Wisdom (EQ) 23.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 23."
+        },
+        "24": {
+          "title": "Titanic",
+          "human": "Placeholder description for Wisdom (EQ) 24.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 24."
+        },
+        "25": {
+          "title": "Herculean",
+          "human": "Placeholder description for Wisdom (EQ) 25.",
+          "metrics": "Placeholder metrics for Wisdom (EQ) 25."
+        }
+      }
+    },
+    "CHA": {
+      "name": "Charisma",
+      "levels": {
+        "1": {
+          "title": "Pitiful",
+          "human": "Placeholder description for Charisma 1.",
+          "metrics": "Placeholder metrics for Charisma 1."
+        },
+        "2": {
+          "title": "Feeble",
+          "human": "Placeholder description for Charisma 2.",
+          "metrics": "Placeholder metrics for Charisma 2."
+        },
+        "3": {
+          "title": "Very Weak",
+          "human": "Placeholder description for Charisma 3.",
+          "metrics": "Placeholder metrics for Charisma 3."
+        },
+        "4": {
+          "title": "Frail",
+          "human": "Placeholder description for Charisma 4.",
+          "metrics": "Placeholder metrics for Charisma 4."
+        },
+        "5": {
+          "title": "Weak",
+          "human": "Placeholder description for Charisma 5.",
+          "metrics": "Placeholder metrics for Charisma 5."
+        },
+        "6": {
+          "title": "Below Average",
+          "human": "Placeholder description for Charisma 6.",
+          "metrics": "Placeholder metrics for Charisma 6."
+        },
+        "7": {
+          "title": "Meager",
+          "human": "Placeholder description for Charisma 7.",
+          "metrics": "Placeholder metrics for Charisma 7."
+        },
+        "8": {
+          "title": "Middling",
+          "human": "Placeholder description for Charisma 8.",
+          "metrics": "Placeholder metrics for Charisma 8."
+        },
+        "9": {
+          "title": "Ordinary",
+          "human": "Placeholder description for Charisma 9.",
+          "metrics": "Placeholder metrics for Charisma 9."
+        },
+        "10": {
+          "title": "Average",
+          "human": "Placeholder description for Charisma 10.",
+          "metrics": "Placeholder metrics for Charisma 10."
+        },
+        "11": {
+          "title": "Able",
+          "human": "Placeholder description for Charisma 11.",
+          "metrics": "Placeholder metrics for Charisma 11."
+        },
+        "12": {
+          "title": "Capable",
+          "human": "Placeholder description for Charisma 12.",
+          "metrics": "Placeholder metrics for Charisma 12."
+        },
+        "13": {
+          "title": "Fit",
+          "human": "Placeholder description for Charisma 13.",
+          "metrics": "Placeholder metrics for Charisma 13."
+        },
+        "14": {
+          "title": "Sturdy",
+          "human": "Placeholder description for Charisma 14.",
+          "metrics": "Placeholder metrics for Charisma 14."
+        },
+        "15": {
+          "title": "Strong",
+          "human": "Placeholder description for Charisma 15.",
+          "metrics": "Placeholder metrics for Charisma 15."
+        },
+        "16": {
+          "title": "Very Strong",
+          "human": "Placeholder description for Charisma 16.",
+          "metrics": "Placeholder metrics for Charisma 16."
+        },
+        "17": {
+          "title": "Mighty",
+          "human": "Placeholder description for Charisma 17.",
+          "metrics": "Placeholder metrics for Charisma 17."
+        },
+        "18": {
+          "title": "Elite",
+          "human": "Placeholder description for Charisma 18.",
+          "metrics": "Placeholder metrics for Charisma 18."
+        },
+        "19": {
+          "title": "Exceptional",
+          "human": "Placeholder description for Charisma 19.",
+          "metrics": "Placeholder metrics for Charisma 19."
+        },
+        "20": {
+          "title": "World-Class",
+          "human": "Placeholder description for Charisma 20.",
+          "metrics": "Placeholder metrics for Charisma 20."
+        },
+        "21": {
+          "title": "Phenomenal",
+          "human": "Placeholder description for Charisma 21.",
+          "metrics": "Placeholder metrics for Charisma 21."
+        },
+        "22": {
+          "title": "Legendary",
+          "human": "Placeholder description for Charisma 22.",
+          "metrics": "Placeholder metrics for Charisma 22."
+        },
+        "23": {
+          "title": "Mythic",
+          "human": "Placeholder description for Charisma 23.",
+          "metrics": "Placeholder metrics for Charisma 23."
+        },
+        "24": {
+          "title": "Titanic",
+          "human": "Placeholder description for Charisma 24.",
+          "metrics": "Placeholder metrics for Charisma 24."
+        },
+        "25": {
+          "title": "Herculean",
+          "human": "Placeholder description for Charisma 25.",
+          "metrics": "Placeholder metrics for Charisma 25."
+        }
+      }
+    }
+  }
+}
