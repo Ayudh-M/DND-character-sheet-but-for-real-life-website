@@ -12,7 +12,6 @@ export function setPortrait(dataURL) {
 
 export function initPortrait() {
   const input = $("#portraitFile");
-  const preview = $("#portraitPreview");
   $("#btnRemovePortrait").addEventListener('click', () => setPortrait(""));
   input.addEventListener('change', async (e) => {
     const file = e.target.files[0];

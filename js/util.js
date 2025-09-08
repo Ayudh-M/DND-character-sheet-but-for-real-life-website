@@ -21,13 +21,6 @@ export function getCookie(name) {
 
 export const toBase64 = (str) => btoa(unescape(encodeURIComponent(str)));
 export const fromBase64 = (b64) => decodeURIComponent(escape(atob(b64)));
-export function bytesToBase64(bytes) {
-  let binary = '';
-  const len = bytes.length;
-  for (let i = 0; i < len; i++) binary += String.fromCharCode(bytes[i]);
-  return btoa(binary);
-}
-
 export function fmtTime(sec) {
   const m = Math.floor(sec/60), s = Math.round(sec%60);
   return `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;

@@ -3,7 +3,7 @@ import { $, setCookie, getCookie } from './util.js';
 import { statOrder } from './stats.js';
 import { getPortrait, setPortrait } from './portrait.js';
 
-const LS_KEY = "dnd_irl_sheet";
+const LS_KEY = "dnd_irl_sheet_v2";
 const COOKIE_KEY = "dnd_irl_id";
 
 export function gatherState() {
@@ -17,7 +17,7 @@ export function gatherState() {
     ])),
     portraitDataURL: getPortrait(),
     updatedAt: new Date().toISOString(),
-    version: 1
+    version: 2
   };
   return data;
 }
