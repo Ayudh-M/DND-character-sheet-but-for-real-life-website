@@ -33,128 +33,128 @@
       "levels": {
         "1": {
           "title": "Pitiful",
-          "human": "Placeholder description for Strength 1.",
-          "metrics": "Placeholder metrics for Strength 1."
+          "human": "You show the frailty of a kitten, lifting only light objects.",
+          "metrics": "1RM deadlift ≈ 32 kg • Overhead press ≈ 11 kg • Push-ups ≈ 3"
         },
         "2": {
           "title": "Feeble",
-          "human": "Placeholder description for Strength 2.",
-          "metrics": "Placeholder metrics for Strength 2."
+          "human": "You show the frailty of a puppy, lifting only light objects.",
+          "metrics": "1RM deadlift ≈ 44 kg • Overhead press ≈ 17 kg • Push-ups ≈ 6"
         },
         "3": {
           "title": "Very Weak",
-          "human": "Placeholder description for Strength 3.",
-          "metrics": "Placeholder metrics for Strength 3."
+          "human": "You show the frailty of a housecat, lifting only light objects.",
+          "metrics": "1RM deadlift ≈ 56 kg • Overhead press ≈ 23 kg • Push-ups ≈ 9"
         },
         "4": {
           "title": "Frail",
-          "human": "Placeholder description for Strength 4.",
-          "metrics": "Placeholder metrics for Strength 4."
+          "human": "You show the frailty of a beagle, lifting only light objects.",
+          "metrics": "1RM deadlift ≈ 68 kg • Overhead press ≈ 29 kg • Push-ups ≈ 12"
         },
         "5": {
           "title": "Weak",
-          "human": "Placeholder description for Strength 5.",
-          "metrics": "Placeholder metrics for Strength 5."
+          "human": "You show the frailty of a goat, lifting only light objects.",
+          "metrics": "1RM deadlift ≈ 80 kg • Overhead press ≈ 35 kg • Push-ups ≈ 15"
         },
         "6": {
           "title": "Below Average",
-          "human": "Placeholder description for Strength 6.",
-          "metrics": "Placeholder metrics for Strength 6."
+          "human": "Like a sheep, you handle everyday loads without strain.",
+          "metrics": "1RM deadlift ≈ 92 kg • Overhead press ≈ 41 kg • Push-ups ≈ 18"
         },
         "7": {
           "title": "Meager",
-          "human": "Placeholder description for Strength 7.",
-          "metrics": "Placeholder metrics for Strength 7."
+          "human": "Like a adult human, you handle everyday loads without strain.",
+          "metrics": "1RM deadlift ≈ 104 kg • Overhead press ≈ 47 kg • Push-ups ≈ 21"
         },
         "8": {
           "title": "Middling",
-          "human": "Placeholder description for Strength 8.",
-          "metrics": "Placeholder metrics for Strength 8."
+          "human": "Like a athletic human, you handle everyday loads without strain.",
+          "metrics": "1RM deadlift ≈ 116 kg • Overhead press ≈ 53 kg • Push-ups ≈ 24"
         },
         "9": {
           "title": "Ordinary",
-          "human": "Placeholder description for Strength 9.",
-          "metrics": "Placeholder metrics for Strength 9."
+          "human": "Like a laborer, you handle everyday loads without strain.",
+          "metrics": "1RM deadlift ≈ 128 kg • Overhead press ≈ 59 kg • Push-ups ≈ 27"
         },
         "10": {
           "title": "Average",
-          "human": "Placeholder description for Strength 10.",
-          "metrics": "Placeholder metrics for Strength 10."
+          "human": "Like a soldier, you handle everyday loads without strain.",
+          "metrics": "1RM deadlift ≈ 140 kg • Overhead press ≈ 65 kg • Push-ups ≈ 30"
         },
         "11": {
           "title": "Able",
-          "human": "Placeholder description for Strength 11.",
-          "metrics": "Placeholder metrics for Strength 11."
+          "human": "You have the power of a farmer, moving heavy items when needed.",
+          "metrics": "1RM deadlift ≈ 152 kg • Overhead press ≈ 71 kg • Push-ups ≈ 33"
         },
         "12": {
           "title": "Capable",
-          "human": "Placeholder description for Strength 12.",
-          "metrics": "Placeholder metrics for Strength 12."
+          "human": "You have the power of a weightlifter, moving heavy items when needed.",
+          "metrics": "1RM deadlift ≈ 164 kg • Overhead press ≈ 77 kg • Push-ups ≈ 36"
         },
         "13": {
           "title": "Fit",
-          "human": "Placeholder description for Strength 13.",
-          "metrics": "Placeholder metrics for Strength 13."
+          "human": "You have the power of a lumberjack, moving heavy items when needed.",
+          "metrics": "1RM deadlift ≈ 176 kg • Overhead press ≈ 83 kg • Push-ups ≈ 39"
         },
         "14": {
           "title": "Sturdy",
-          "human": "Placeholder description for Strength 14.",
-          "metrics": "Placeholder metrics for Strength 14."
+          "human": "You have the power of a football lineman, moving heavy items when needed.",
+          "metrics": "1RM deadlift ≈ 188 kg • Overhead press ≈ 89 kg • Push-ups ≈ 42"
         },
         "15": {
           "title": "Strong",
-          "human": "Placeholder description for Strength 15.",
-          "metrics": "Placeholder metrics for Strength 15."
+          "human": "You have the power of a powerlifter, moving heavy items when needed.",
+          "metrics": "1RM deadlift ≈ 200 kg • Overhead press ≈ 95 kg • Push-ups ≈ 45"
         },
         "16": {
           "title": "Very Strong",
-          "human": "Placeholder description for Strength 16.",
-          "metrics": "Placeholder metrics for Strength 16."
+          "human": "Your muscles rival a strongman competitor, enabling feats of strength.",
+          "metrics": "1RM deadlift ≈ 212 kg • Overhead press ≈ 101 kg • Push-ups ≈ 48"
         },
         "17": {
           "title": "Mighty",
-          "human": "Placeholder description for Strength 17.",
-          "metrics": "Placeholder metrics for Strength 17."
+          "human": "Your muscles rival a ox, enabling feats of strength.",
+          "metrics": "1RM deadlift ≈ 224 kg • Overhead press ≈ 107 kg • Push-ups ≈ 51"
         },
         "18": {
           "title": "Elite",
-          "human": "Placeholder description for Strength 18.",
-          "metrics": "Placeholder metrics for Strength 18."
+          "human": "Your muscles rival a horse, enabling feats of strength.",
+          "metrics": "1RM deadlift ≈ 236 kg • Overhead press ≈ 113 kg • Push-ups ≈ 54"
         },
         "19": {
           "title": "Exceptional",
-          "human": "Placeholder description for Strength 19.",
-          "metrics": "Placeholder metrics for Strength 19."
+          "human": "Your muscles rival a black bear, enabling feats of strength.",
+          "metrics": "1RM deadlift ≈ 248 kg • Overhead press ≈ 119 kg • Push-ups ≈ 57"
         },
         "20": {
           "title": "World-Class",
-          "human": "Placeholder description for Strength 20.",
-          "metrics": "Placeholder metrics for Strength 20."
+          "human": "Your muscles rival a grizzly bear, enabling feats of strength.",
+          "metrics": "1RM deadlift ≈ 260 kg • Overhead press ≈ 125 kg • Push-ups ≈ 60"
         },
         "21": {
           "title": "Phenomenal",
-          "human": "Placeholder description for Strength 21.",
-          "metrics": "Placeholder metrics for Strength 21."
+          "human": "You exhibit legendary might like a gorilla, bending metal and hoisting massive weights.",
+          "metrics": "1RM deadlift ≈ 272 kg • Overhead press ≈ 131 kg • Push-ups ≈ 63"
         },
         "22": {
           "title": "Legendary",
-          "human": "Placeholder description for Strength 22.",
-          "metrics": "Placeholder metrics for Strength 22."
+          "human": "You exhibit legendary might like a rhino, bending metal and hoisting massive weights.",
+          "metrics": "1RM deadlift ≈ 284 kg • Overhead press ≈ 137 kg • Push-ups ≈ 66"
         },
         "23": {
           "title": "Mythic",
-          "human": "Placeholder description for Strength 23.",
-          "metrics": "Placeholder metrics for Strength 23."
+          "human": "You exhibit legendary might like a elephant, bending metal and hoisting massive weights.",
+          "metrics": "1RM deadlift ≈ 296 kg • Overhead press ≈ 143 kg • Push-ups ≈ 69"
         },
         "24": {
           "title": "Titanic",
-          "human": "Placeholder description for Strength 24.",
-          "metrics": "Placeholder metrics for Strength 24."
+          "human": "You exhibit legendary might like a hippopotamus, bending metal and hoisting massive weights.",
+          "metrics": "1RM deadlift ≈ 308 kg • Overhead press ≈ 149 kg • Push-ups ≈ 72"
         },
         "25": {
           "title": "Herculean",
-          "human": "Placeholder description for Strength 25.",
-          "metrics": "Placeholder metrics for Strength 25."
+          "human": "You exhibit legendary might like a whale, bending metal and hoisting massive weights.",
+          "metrics": "1RM deadlift ≈ 320 kg • Overhead press ≈ 155 kg • Push-ups ≈ 75"
         }
       }
     },
@@ -163,128 +163,128 @@
       "levels": {
         "1": {
           "title": "Pitiful",
-          "human": "Placeholder description for Dexterity 1.",
-          "metrics": "Placeholder metrics for Dexterity 1."
+          "human": "You move with the clumsiness of a sloth, dropping and stumbling.",
+          "metrics": "Reaction time ≈ 438 ms • One-foot balance ≈ 11 s • Typing ≈ 16 WPM"
         },
         "2": {
           "title": "Feeble",
-          "human": "Placeholder description for Dexterity 2.",
-          "metrics": "Placeholder metrics for Dexterity 2."
+          "human": "You move with the clumsiness of a cow, dropping and stumbling.",
+          "metrics": "Reaction time ≈ 426 ms • One-foot balance ≈ 21 s • Typing ≈ 22 WPM"
         },
         "3": {
           "title": "Very Weak",
-          "human": "Placeholder description for Dexterity 3.",
-          "metrics": "Placeholder metrics for Dexterity 3."
+          "human": "You move with the clumsiness of a pig, dropping and stumbling.",
+          "metrics": "Reaction time ≈ 414 ms • One-foot balance ≈ 31 s • Typing ≈ 28 WPM"
         },
         "4": {
           "title": "Frail",
-          "human": "Placeholder description for Dexterity 4.",
-          "metrics": "Placeholder metrics for Dexterity 4."
+          "human": "You move with the clumsiness of a turtle, dropping and stumbling.",
+          "metrics": "Reaction time ≈ 402 ms • One-foot balance ≈ 41 s • Typing ≈ 34 WPM"
         },
         "5": {
           "title": "Weak",
-          "human": "Placeholder description for Dexterity 5.",
-          "metrics": "Placeholder metrics for Dexterity 5."
+          "human": "You move with the clumsiness of a dog, dropping and stumbling.",
+          "metrics": "Reaction time ≈ 390 ms • One-foot balance ≈ 51 s • Typing ≈ 40 WPM"
         },
         "6": {
           "title": "Below Average",
-          "human": "Placeholder description for Dexterity 6.",
-          "metrics": "Placeholder metrics for Dexterity 6."
+          "human": "Like a goat, you manage basic coordination tasks.",
+          "metrics": "Reaction time ≈ 378 ms • One-foot balance ≈ 61 s • Typing ≈ 46 WPM"
         },
         "7": {
           "title": "Meager",
-          "human": "Placeholder description for Dexterity 7.",
-          "metrics": "Placeholder metrics for Dexterity 7."
+          "human": "Like a sheep, you manage basic coordination tasks.",
+          "metrics": "Reaction time ≈ 366 ms • One-foot balance ≈ 71 s • Typing ≈ 52 WPM"
         },
         "8": {
           "title": "Middling",
-          "human": "Placeholder description for Dexterity 8.",
-          "metrics": "Placeholder metrics for Dexterity 8."
+          "human": "Like a cat, you manage basic coordination tasks.",
+          "metrics": "Reaction time ≈ 354 ms • One-foot balance ≈ 81 s • Typing ≈ 58 WPM"
         },
         "9": {
           "title": "Ordinary",
-          "human": "Placeholder description for Dexterity 9.",
-          "metrics": "Placeholder metrics for Dexterity 9."
+          "human": "Like a otter, you manage basic coordination tasks.",
+          "metrics": "Reaction time ≈ 342 ms • One-foot balance ≈ 91 s • Typing ≈ 64 WPM"
         },
         "10": {
           "title": "Average",
-          "human": "Placeholder description for Dexterity 10.",
-          "metrics": "Placeholder metrics for Dexterity 10."
+          "human": "Like a raccoon, you manage basic coordination tasks.",
+          "metrics": "Reaction time ≈ 330 ms • One-foot balance ≈ 101 s • Typing ≈ 70 WPM"
         },
         "11": {
           "title": "Able",
-          "human": "Placeholder description for Dexterity 11.",
-          "metrics": "Placeholder metrics for Dexterity 11."
+          "human": "You match a monkey for nimble movement and fine control.",
+          "metrics": "Reaction time ≈ 318 ms • One-foot balance ≈ 111 s • Typing ≈ 76 WPM"
         },
         "12": {
           "title": "Capable",
-          "human": "Placeholder description for Dexterity 12.",
-          "metrics": "Placeholder metrics for Dexterity 12."
+          "human": "You match a lemur for nimble movement and fine control.",
+          "metrics": "Reaction time ≈ 306 ms • One-foot balance ≈ 121 s • Typing ≈ 82 WPM"
         },
         "13": {
           "title": "Fit",
-          "human": "Placeholder description for Dexterity 13.",
-          "metrics": "Placeholder metrics for Dexterity 13."
+          "human": "You match a squirrel for nimble movement and fine control.",
+          "metrics": "Reaction time ≈ 294 ms • One-foot balance ≈ 131 s • Typing ≈ 88 WPM"
         },
         "14": {
           "title": "Sturdy",
-          "human": "Placeholder description for Dexterity 14.",
-          "metrics": "Placeholder metrics for Dexterity 14."
+          "human": "You match a panther for nimble movement and fine control.",
+          "metrics": "Reaction time ≈ 282 ms • One-foot balance ≈ 141 s • Typing ≈ 94 WPM"
         },
         "15": {
           "title": "Strong",
-          "human": "Placeholder description for Dexterity 15.",
-          "metrics": "Placeholder metrics for Dexterity 15."
+          "human": "You match a cougar for nimble movement and fine control.",
+          "metrics": "Reaction time ≈ 270 ms • One-foot balance ≈ 151 s • Typing ≈ 100 WPM"
         },
         "16": {
           "title": "Very Strong",
-          "human": "Placeholder description for Dexterity 16.",
-          "metrics": "Placeholder metrics for Dexterity 16."
+          "human": "Your agility mirrors a cheetah, weaving through obstacles gracefully.",
+          "metrics": "Reaction time ≈ 258 ms • One-foot balance ≈ 161 s • Typing ≈ 106 WPM"
         },
         "17": {
           "title": "Mighty",
-          "human": "Placeholder description for Dexterity 17.",
-          "metrics": "Placeholder metrics for Dexterity 17."
+          "human": "Your agility mirrors a octopus, weaving through obstacles gracefully.",
+          "metrics": "Reaction time ≈ 246 ms • One-foot balance ≈ 171 s • Typing ≈ 112 WPM"
         },
         "18": {
           "title": "Elite",
-          "human": "Placeholder description for Dexterity 18.",
-          "metrics": "Placeholder metrics for Dexterity 18."
+          "human": "Your agility mirrors a spider, weaving through obstacles gracefully.",
+          "metrics": "Reaction time ≈ 234 ms • One-foot balance ≈ 181 s • Typing ≈ 118 WPM"
         },
         "19": {
           "title": "Exceptional",
-          "human": "Placeholder description for Dexterity 19.",
-          "metrics": "Placeholder metrics for Dexterity 19."
+          "human": "Your agility mirrors a housefly, weaving through obstacles gracefully.",
+          "metrics": "Reaction time ≈ 222 ms • One-foot balance ≈ 191 s • Typing ≈ 124 WPM"
         },
         "20": {
           "title": "World-Class",
-          "human": "Placeholder description for Dexterity 20.",
-          "metrics": "Placeholder metrics for Dexterity 20."
+          "human": "Your agility mirrors a dragonfly, weaving through obstacles gracefully.",
+          "metrics": "Reaction time ≈ 210 ms • One-foot balance ≈ 201 s • Typing ≈ 130 WPM"
         },
         "21": {
           "title": "Phenomenal",
-          "human": "Placeholder description for Dexterity 21.",
-          "metrics": "Placeholder metrics for Dexterity 21."
+          "human": "You display breathtaking acrobatics like a swallow, reacting instantly.",
+          "metrics": "Reaction time ≈ 198 ms • One-foot balance ≈ 211 s • Typing ≈ 136 WPM"
         },
         "22": {
           "title": "Legendary",
-          "human": "Placeholder description for Dexterity 22.",
-          "metrics": "Placeholder metrics for Dexterity 22."
+          "human": "You display breathtaking acrobatics like a falcon, reacting instantly.",
+          "metrics": "Reaction time ≈ 186 ms • One-foot balance ≈ 221 s • Typing ≈ 142 WPM"
         },
         "23": {
           "title": "Mythic",
-          "human": "Placeholder description for Dexterity 23.",
-          "metrics": "Placeholder metrics for Dexterity 23."
+          "human": "You display breathtaking acrobatics like a hummingbird, reacting instantly.",
+          "metrics": "Reaction time ≈ 174 ms • One-foot balance ≈ 231 s • Typing ≈ 148 WPM"
         },
         "24": {
           "title": "Titanic",
-          "human": "Placeholder description for Dexterity 24.",
-          "metrics": "Placeholder metrics for Dexterity 24."
+          "human": "You display breathtaking acrobatics like a martin, reacting instantly.",
+          "metrics": "Reaction time ≈ 162 ms • One-foot balance ≈ 241 s • Typing ≈ 154 WPM"
         },
         "25": {
           "title": "Herculean",
-          "human": "Placeholder description for Dexterity 25.",
-          "metrics": "Placeholder metrics for Dexterity 25."
+          "human": "You display breathtaking acrobatics like a swift, reacting instantly.",
+          "metrics": "Reaction time ≈ 150 ms • One-foot balance ≈ 251 s • Typing ≈ 160 WPM"
         }
       }
     },
@@ -293,128 +293,128 @@
       "levels": {
         "1": {
           "title": "Pitiful",
-          "human": "Placeholder description for Constitution 1.",
-          "metrics": "Placeholder metrics for Constitution 1."
+          "human": "You tire quickly like a mayfly, needing frequent rests.",
+          "metrics": "5k run ≈ 43.8 min • Plank ≈ 15 s • Resting HR ≈ 98 bpm"
         },
         "2": {
           "title": "Feeble",
-          "human": "Placeholder description for Constitution 2.",
-          "metrics": "Placeholder metrics for Constitution 2."
+          "human": "You tire quickly like a hamster, needing frequent rests.",
+          "metrics": "5k run ≈ 42.6 min • Plank ≈ 30 s • Resting HR ≈ 96 bpm"
         },
         "3": {
           "title": "Very Weak",
-          "human": "Placeholder description for Constitution 3.",
-          "metrics": "Placeholder metrics for Constitution 3."
+          "human": "You tire quickly like a housecat, needing frequent rests.",
+          "metrics": "5k run ≈ 41.4 min • Plank ≈ 45 s • Resting HR ≈ 94 bpm"
         },
         "4": {
           "title": "Frail",
-          "human": "Placeholder description for Constitution 4.",
-          "metrics": "Placeholder metrics for Constitution 4."
+          "human": "You tire quickly like a rabbit, needing frequent rests.",
+          "metrics": "5k run ≈ 40.2 min • Plank ≈ 60 s • Resting HR ≈ 92 bpm"
         },
         "5": {
           "title": "Weak",
-          "human": "Placeholder description for Constitution 5.",
-          "metrics": "Placeholder metrics for Constitution 5."
+          "human": "You tire quickly like a dog, needing frequent rests.",
+          "metrics": "5k run ≈ 39.0 min • Plank ≈ 75 s • Resting HR ≈ 90 bpm"
         },
         "6": {
           "title": "Below Average",
-          "human": "Placeholder description for Constitution 6.",
-          "metrics": "Placeholder metrics for Constitution 6."
+          "human": "You endure daily effort like a goat, handling moderate exertion.",
+          "metrics": "5k run ≈ 37.8 min • Plank ≈ 90 s • Resting HR ≈ 88 bpm"
         },
         "7": {
           "title": "Meager",
-          "human": "Placeholder description for Constitution 7.",
-          "metrics": "Placeholder metrics for Constitution 7."
+          "human": "You endure daily effort like a pig, handling moderate exertion.",
+          "metrics": "5k run ≈ 36.6 min • Plank ≈ 105 s • Resting HR ≈ 86 bpm"
         },
         "8": {
           "title": "Middling",
-          "human": "Placeholder description for Constitution 8.",
-          "metrics": "Placeholder metrics for Constitution 8."
+          "human": "You endure daily effort like a office worker, handling moderate exertion.",
+          "metrics": "5k run ≈ 35.4 min • Plank ≈ 120 s • Resting HR ≈ 84 bpm"
         },
         "9": {
           "title": "Ordinary",
-          "human": "Placeholder description for Constitution 9.",
-          "metrics": "Placeholder metrics for Constitution 9."
+          "human": "You endure daily effort like a hiker, handling moderate exertion.",
+          "metrics": "5k run ≈ 34.2 min • Plank ≈ 135 s • Resting HR ≈ 82 bpm"
         },
         "10": {
           "title": "Average",
-          "human": "Placeholder description for Constitution 10.",
-          "metrics": "Placeholder metrics for Constitution 10."
+          "human": "You endure daily effort like a soldier, handling moderate exertion.",
+          "metrics": "5k run ≈ 33.0 min • Plank ≈ 150 s • Resting HR ≈ 80 bpm"
         },
         "11": {
           "title": "Able",
-          "human": "Placeholder description for Constitution 11.",
-          "metrics": "Placeholder metrics for Constitution 11."
+          "human": "Your stamina matches a horse, shrugging off long activity.",
+          "metrics": "5k run ≈ 31.8 min • Plank ≈ 165 s • Resting HR ≈ 78 bpm"
         },
         "12": {
           "title": "Capable",
-          "human": "Placeholder description for Constitution 12.",
-          "metrics": "Placeholder metrics for Constitution 12."
+          "human": "Your stamina matches a camel, shrugging off long activity.",
+          "metrics": "5k run ≈ 30.6 min • Plank ≈ 180 s • Resting HR ≈ 76 bpm"
         },
         "13": {
           "title": "Fit",
-          "human": "Placeholder description for Constitution 13.",
-          "metrics": "Placeholder metrics for Constitution 13."
+          "human": "Your stamina matches a wolf, shrugging off long activity.",
+          "metrics": "5k run ≈ 29.4 min • Plank ≈ 195 s • Resting HR ≈ 74 bpm"
         },
         "14": {
           "title": "Sturdy",
-          "human": "Placeholder description for Constitution 14.",
-          "metrics": "Placeholder metrics for Constitution 14."
+          "human": "Your stamina matches a husky, shrugging off long activity.",
+          "metrics": "5k run ≈ 28.2 min • Plank ≈ 210 s • Resting HR ≈ 72 bpm"
         },
         "15": {
           "title": "Strong",
-          "human": "Placeholder description for Constitution 15.",
-          "metrics": "Placeholder metrics for Constitution 15."
+          "human": "Your stamina matches a marathoner, shrugging off long activity.",
+          "metrics": "5k run ≈ 27.0 min • Plank ≈ 225 s • Resting HR ≈ 70 bpm"
         },
         "16": {
           "title": "Very Strong",
-          "human": "Placeholder description for Constitution 16.",
-          "metrics": "Placeholder metrics for Constitution 16."
+          "human": "You endure hardship like a triathlete, resisting fatigue and illness.",
+          "metrics": "5k run ≈ 25.8 min • Plank ≈ 240 s • Resting HR ≈ 68 bpm"
         },
         "17": {
           "title": "Mighty",
-          "human": "Placeholder description for Constitution 17.",
-          "metrics": "Placeholder metrics for Constitution 17."
+          "human": "You endure hardship like a ironman competitor, resisting fatigue and illness.",
+          "metrics": "5k run ≈ 24.6 min • Plank ≈ 255 s • Resting HR ≈ 66 bpm"
         },
         "18": {
           "title": "Elite",
-          "human": "Placeholder description for Constitution 18.",
-          "metrics": "Placeholder metrics for Constitution 18."
+          "human": "You endure hardship like a sherpa, resisting fatigue and illness.",
+          "metrics": "5k run ≈ 23.4 min • Plank ≈ 270 s • Resting HR ≈ 64 bpm"
         },
         "19": {
           "title": "Exceptional",
-          "human": "Placeholder description for Constitution 19.",
-          "metrics": "Placeholder metrics for Constitution 19."
+          "human": "You endure hardship like a ultra runner, resisting fatigue and illness.",
+          "metrics": "5k run ≈ 22.2 min • Plank ≈ 285 s • Resting HR ≈ 62 bpm"
         },
         "20": {
           "title": "World-Class",
-          "human": "Placeholder description for Constitution 20.",
-          "metrics": "Placeholder metrics for Constitution 20."
+          "human": "You endure hardship like a camel caravan, resisting fatigue and illness.",
+          "metrics": "5k run ≈ 21.0 min • Plank ≈ 300 s • Resting HR ≈ 60 bpm"
         },
         "21": {
           "title": "Phenomenal",
-          "human": "Placeholder description for Constitution 21.",
-          "metrics": "Placeholder metrics for Constitution 21."
+          "human": "You show near-endless endurance like a whale, thriving under extreme strain.",
+          "metrics": "5k run ≈ 19.8 min • Plank ≈ 315 s • Resting HR ≈ 58 bpm"
         },
         "22": {
           "title": "Legendary",
-          "human": "Placeholder description for Constitution 22.",
-          "metrics": "Placeholder metrics for Constitution 22."
+          "human": "You show near-endless endurance like a elephant, thriving under extreme strain.",
+          "metrics": "5k run ≈ 18.6 min • Plank ≈ 330 s • Resting HR ≈ 56 bpm"
         },
         "23": {
           "title": "Mythic",
-          "human": "Placeholder description for Constitution 23.",
-          "metrics": "Placeholder metrics for Constitution 23."
+          "human": "You show near-endless endurance like a tortoise, thriving under extreme strain.",
+          "metrics": "5k run ≈ 17.4 min • Plank ≈ 345 s • Resting HR ≈ 54 bpm"
         },
         "24": {
           "title": "Titanic",
-          "human": "Placeholder description for Constitution 24.",
-          "metrics": "Placeholder metrics for Constitution 24."
+          "human": "You show near-endless endurance like a greenland shark, thriving under extreme strain.",
+          "metrics": "5k run ≈ 16.2 min • Plank ≈ 360 s • Resting HR ≈ 52 bpm"
         },
         "25": {
           "title": "Herculean",
-          "human": "Placeholder description for Constitution 25.",
-          "metrics": "Placeholder metrics for Constitution 25."
+          "human": "You show near-endless endurance like a mythic titan, thriving under extreme strain.",
+          "metrics": "5k run ≈ 15.0 min • Plank ≈ 375 s • Resting HR ≈ 50 bpm"
         }
       }
     },
@@ -423,128 +423,128 @@
       "levels": {
         "1": {
           "title": "Pitiful",
-          "human": "Placeholder description for Intelligence 1.",
-          "metrics": "Placeholder metrics for Intelligence 1."
+          "human": "You reason on the level of a jellyfish, grasping only simple ideas.",
+          "metrics": "New facts/day ≈ 2 • Puzzle percentile ≈ 8% • Reading ≈ 108 WPM"
         },
         "2": {
           "title": "Feeble",
-          "human": "Placeholder description for Intelligence 2.",
-          "metrics": "Placeholder metrics for Intelligence 2."
+          "human": "You reason on the level of a clam, grasping only simple ideas.",
+          "metrics": "New facts/day ≈ 4 • Puzzle percentile ≈ 11% • Reading ≈ 116 WPM"
         },
         "3": {
           "title": "Very Weak",
-          "human": "Placeholder description for Intelligence 3.",
-          "metrics": "Placeholder metrics for Intelligence 3."
+          "human": "You reason on the level of a goldfish, grasping only simple ideas.",
+          "metrics": "New facts/day ≈ 6 • Puzzle percentile ≈ 14% • Reading ≈ 124 WPM"
         },
         "4": {
           "title": "Frail",
-          "human": "Placeholder description for Intelligence 4.",
-          "metrics": "Placeholder metrics for Intelligence 4."
+          "human": "You reason on the level of a chicken, grasping only simple ideas.",
+          "metrics": "New facts/day ≈ 8 • Puzzle percentile ≈ 17% • Reading ≈ 132 WPM"
         },
         "5": {
           "title": "Weak",
-          "human": "Placeholder description for Intelligence 5.",
-          "metrics": "Placeholder metrics for Intelligence 5."
+          "human": "You reason on the level of a dog, grasping only simple ideas.",
+          "metrics": "New facts/day ≈ 10 • Puzzle percentile ≈ 20% • Reading ≈ 140 WPM"
         },
         "6": {
           "title": "Below Average",
-          "human": "Placeholder description for Intelligence 6.",
-          "metrics": "Placeholder metrics for Intelligence 6."
+          "human": "Like a pig, you learn and solve everyday problems.",
+          "metrics": "New facts/day ≈ 12 • Puzzle percentile ≈ 23% • Reading ≈ 148 WPM"
         },
         "7": {
           "title": "Meager",
-          "human": "Placeholder description for Intelligence 7.",
-          "metrics": "Placeholder metrics for Intelligence 7."
+          "human": "Like a chimp, you learn and solve everyday problems.",
+          "metrics": "New facts/day ≈ 14 • Puzzle percentile ≈ 26% • Reading ≈ 156 WPM"
         },
         "8": {
           "title": "Middling",
-          "human": "Placeholder description for Intelligence 8.",
-          "metrics": "Placeholder metrics for Intelligence 8."
+          "human": "Like a human child, you learn and solve everyday problems.",
+          "metrics": "New facts/day ≈ 16 • Puzzle percentile ≈ 29% • Reading ≈ 164 WPM"
         },
         "9": {
           "title": "Ordinary",
-          "human": "Placeholder description for Intelligence 9.",
-          "metrics": "Placeholder metrics for Intelligence 9."
+          "human": "Like a teen student, you learn and solve everyday problems.",
+          "metrics": "New facts/day ≈ 18 • Puzzle percentile ≈ 32% • Reading ≈ 172 WPM"
         },
         "10": {
           "title": "Average",
-          "human": "Placeholder description for Intelligence 10.",
-          "metrics": "Placeholder metrics for Intelligence 10."
+          "human": "Like a college grad, you learn and solve everyday problems.",
+          "metrics": "New facts/day ≈ 20 • Puzzle percentile ≈ 35% • Reading ≈ 180 WPM"
         },
         "11": {
           "title": "Able",
-          "human": "Placeholder description for Intelligence 11.",
-          "metrics": "Placeholder metrics for Intelligence 11."
+          "human": "Your mind matches a engineer, analyzing and planning with skill.",
+          "metrics": "New facts/day ≈ 22 • Puzzle percentile ≈ 38% • Reading ≈ 188 WPM"
         },
         "12": {
           "title": "Capable",
-          "human": "Placeholder description for Intelligence 12.",
-          "metrics": "Placeholder metrics for Intelligence 12."
+          "human": "Your mind matches a scientist, analyzing and planning with skill.",
+          "metrics": "New facts/day ≈ 24 • Puzzle percentile ≈ 41% • Reading ≈ 196 WPM"
         },
         "13": {
           "title": "Fit",
-          "human": "Placeholder description for Intelligence 13.",
-          "metrics": "Placeholder metrics for Intelligence 13."
+          "human": "Your mind matches a researcher, analyzing and planning with skill.",
+          "metrics": "New facts/day ≈ 26 • Puzzle percentile ≈ 44% • Reading ≈ 204 WPM"
         },
         "14": {
           "title": "Sturdy",
-          "human": "Placeholder description for Intelligence 14.",
-          "metrics": "Placeholder metrics for Intelligence 14."
+          "human": "Your mind matches a doctor, analyzing and planning with skill.",
+          "metrics": "New facts/day ≈ 28 • Puzzle percentile ≈ 47% • Reading ≈ 212 WPM"
         },
         "15": {
           "title": "Strong",
-          "human": "Placeholder description for Intelligence 15.",
-          "metrics": "Placeholder metrics for Intelligence 15."
+          "human": "Your mind matches a professor, analyzing and planning with skill.",
+          "metrics": "New facts/day ≈ 30 • Puzzle percentile ≈ 50% • Reading ≈ 220 WPM"
         },
         "16": {
           "title": "Very Strong",
-          "human": "Placeholder description for Intelligence 16.",
-          "metrics": "Placeholder metrics for Intelligence 16."
+          "human": "You think with the brilliance of a polymath, synthesizing complex concepts.",
+          "metrics": "New facts/day ≈ 32 • Puzzle percentile ≈ 53% • Reading ≈ 228 WPM"
         },
         "17": {
           "title": "Mighty",
-          "human": "Placeholder description for Intelligence 17.",
-          "metrics": "Placeholder metrics for Intelligence 17."
+          "human": "You think with the brilliance of a genius inventor, synthesizing complex concepts.",
+          "metrics": "New facts/day ≈ 34 • Puzzle percentile ≈ 56% • Reading ≈ 236 WPM"
         },
         "18": {
           "title": "Elite",
-          "human": "Placeholder description for Intelligence 18.",
-          "metrics": "Placeholder metrics for Intelligence 18."
+          "human": "You think with the brilliance of a renowned scientist, synthesizing complex concepts.",
+          "metrics": "New facts/day ≈ 36 • Puzzle percentile ≈ 59% • Reading ≈ 244 WPM"
         },
         "19": {
           "title": "Exceptional",
-          "human": "Placeholder description for Intelligence 19.",
-          "metrics": "Placeholder metrics for Intelligence 19."
+          "human": "You think with the brilliance of a Nobel laureate, synthesizing complex concepts.",
+          "metrics": "New facts/day ≈ 38 • Puzzle percentile ≈ 62% • Reading ≈ 252 WPM"
         },
         "20": {
           "title": "World-Class",
-          "human": "Placeholder description for Intelligence 20.",
-          "metrics": "Placeholder metrics for Intelligence 20."
+          "human": "You think with the brilliance of a Einstein-level thinker, synthesizing complex concepts.",
+          "metrics": "New facts/day ≈ 40 • Puzzle percentile ≈ 65% • Reading ≈ 260 WPM"
         },
         "21": {
           "title": "Phenomenal",
-          "human": "Placeholder description for Intelligence 21.",
-          "metrics": "Placeholder metrics for Intelligence 21."
+          "human": "You display world-shaping intellect like a cutting-edge AI researcher, advancing human knowledge.",
+          "metrics": "New facts/day ≈ 42 • Puzzle percentile ≈ 68% • Reading ≈ 268 WPM"
         },
         "22": {
           "title": "Legendary",
-          "human": "Placeholder description for Intelligence 22.",
-          "metrics": "Placeholder metrics for Intelligence 22."
+          "human": "You display world-shaping intellect like a unified theory creator, advancing human knowledge.",
+          "metrics": "New facts/day ≈ 44 • Puzzle percentile ≈ 71% • Reading ≈ 276 WPM"
         },
         "23": {
           "title": "Mythic",
-          "human": "Placeholder description for Intelligence 23.",
-          "metrics": "Placeholder metrics for Intelligence 23."
+          "human": "You display world-shaping intellect like a global strategist, advancing human knowledge.",
+          "metrics": "New facts/day ≈ 46 • Puzzle percentile ≈ 74% • Reading ≈ 284 WPM"
         },
         "24": {
           "title": "Titanic",
-          "human": "Placeholder description for Intelligence 24.",
-          "metrics": "Placeholder metrics for Intelligence 24."
+          "human": "You display world-shaping intellect like a philosopher king, advancing human knowledge.",
+          "metrics": "New facts/day ≈ 48 • Puzzle percentile ≈ 77% • Reading ≈ 292 WPM"
         },
         "25": {
           "title": "Herculean",
-          "human": "Placeholder description for Intelligence 25.",
-          "metrics": "Placeholder metrics for Intelligence 25."
+          "human": "You display world-shaping intellect like a legendary sage, advancing human knowledge.",
+          "metrics": "New facts/day ≈ 50 • Puzzle percentile ≈ 80% • Reading ≈ 300 WPM"
         }
       }
     },
@@ -553,128 +553,128 @@
       "levels": {
         "1": {
           "title": "Pitiful",
-          "human": "Placeholder description for Wisdom (EQ) 1.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 1."
+          "human": "You notice little, like a mole, and misread situations.",
+          "metrics": "Mindful minutes/day ≈ 2 • Notice change ≈ 29 s"
         },
         "2": {
           "title": "Feeble",
-          "human": "Placeholder description for Wisdom (EQ) 2.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 2."
+          "human": "You notice little, like a opossum, and misread situations.",
+          "metrics": "Mindful minutes/day ≈ 4 • Notice change ≈ 28 s"
         },
         "3": {
           "title": "Very Weak",
-          "human": "Placeholder description for Wisdom (EQ) 3.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 3."
+          "human": "You notice little, like a pigeon, and misread situations.",
+          "metrics": "Mindful minutes/day ≈ 6 • Notice change ≈ 27 s"
         },
         "4": {
           "title": "Frail",
-          "human": "Placeholder description for Wisdom (EQ) 4.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 4."
+          "human": "You notice little, like a cat, and misread situations.",
+          "metrics": "Mindful minutes/day ≈ 8 • Notice change ≈ 26 s"
         },
         "5": {
           "title": "Weak",
-          "human": "Placeholder description for Wisdom (EQ) 5.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 5."
+          "human": "You notice little, like a dog, and misread situations.",
+          "metrics": "Mindful minutes/day ≈ 10 • Notice change ≈ 25 s"
         },
         "6": {
           "title": "Below Average",
-          "human": "Placeholder description for Wisdom (EQ) 6.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 6."
+          "human": "Like a horse, you read basic cues and make sound choices.",
+          "metrics": "Mindful minutes/day ≈ 12 • Notice change ≈ 24 s"
         },
         "7": {
           "title": "Meager",
-          "human": "Placeholder description for Wisdom (EQ) 7.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 7."
+          "human": "Like a elephant, you read basic cues and make sound choices.",
+          "metrics": "Mindful minutes/day ≈ 14 • Notice change ≈ 23 s"
         },
         "8": {
           "title": "Middling",
-          "human": "Placeholder description for Wisdom (EQ) 8.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 8."
+          "human": "Like a shepherd, you read basic cues and make sound choices.",
+          "metrics": "Mindful minutes/day ≈ 16 • Notice change ≈ 22 s"
         },
         "9": {
           "title": "Ordinary",
-          "human": "Placeholder description for Wisdom (EQ) 9.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 9."
+          "human": "Like a counselor, you read basic cues and make sound choices.",
+          "metrics": "Mindful minutes/day ≈ 18 • Notice change ≈ 21 s"
         },
         "10": {
           "title": "Average",
-          "human": "Placeholder description for Wisdom (EQ) 10.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 10."
+          "human": "Like a mediator, you read basic cues and make sound choices.",
+          "metrics": "Mindful minutes/day ≈ 20 • Notice change ≈ 20 s"
         },
         "11": {
           "title": "Able",
-          "human": "Placeholder description for Wisdom (EQ) 11.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 11."
+          "human": "Your insight equals a therapist, perceiving motives and patterns.",
+          "metrics": "Mindful minutes/day ≈ 22 • Notice change ≈ 19 s"
         },
         "12": {
           "title": "Capable",
-          "human": "Placeholder description for Wisdom (EQ) 12.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 12."
+          "human": "Your insight equals a village elder, perceiving motives and patterns.",
+          "metrics": "Mindful minutes/day ≈ 24 • Notice change ≈ 18 s"
         },
         "13": {
           "title": "Fit",
-          "human": "Placeholder description for Wisdom (EQ) 13.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 13."
+          "human": "Your insight equals a safari guide, perceiving motives and patterns.",
+          "metrics": "Mindful minutes/day ≈ 26 • Notice change ≈ 17 s"
         },
         "14": {
           "title": "Sturdy",
-          "human": "Placeholder description for Wisdom (EQ) 14.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 14."
+          "human": "Your insight equals a monk, perceiving motives and patterns.",
+          "metrics": "Mindful minutes/day ≈ 28 • Notice change ≈ 16 s"
         },
         "15": {
           "title": "Strong",
-          "human": "Placeholder description for Wisdom (EQ) 15.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 15."
+          "human": "Your insight equals a philosopher, perceiving motives and patterns.",
+          "metrics": "Mindful minutes/day ≈ 30 • Notice change ≈ 15 s"
         },
         "16": {
           "title": "Very Strong",
-          "human": "Placeholder description for Wisdom (EQ) 16.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 16."
+          "human": "You show deep understanding like a guru, guiding others wisely.",
+          "metrics": "Mindful minutes/day ≈ 32 • Notice change ≈ 14 s"
         },
         "17": {
           "title": "Mighty",
-          "human": "Placeholder description for Wisdom (EQ) 17.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 17."
+          "human": "You show deep understanding like a sage, guiding others wisely.",
+          "metrics": "Mindful minutes/day ≈ 34 • Notice change ≈ 13 s"
         },
         "18": {
           "title": "Elite",
-          "human": "Placeholder description for Wisdom (EQ) 18.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 18."
+          "human": "You show deep understanding like a prophet, guiding others wisely.",
+          "metrics": "Mindful minutes/day ≈ 36 • Notice change ≈ 12 s"
         },
         "19": {
           "title": "Exceptional",
-          "human": "Placeholder description for Wisdom (EQ) 19.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 19."
+          "human": "You show deep understanding like a wise judge, guiding others wisely.",
+          "metrics": "Mindful minutes/day ≈ 38 • Notice change ≈ 11 s"
         },
         "20": {
           "title": "World-Class",
-          "human": "Placeholder description for Wisdom (EQ) 20.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 20."
+          "human": "You show deep understanding like a spiritual leader, guiding others wisely.",
+          "metrics": "Mindful minutes/day ≈ 40 • Notice change ≈ 10 s"
         },
         "21": {
           "title": "Phenomenal",
-          "human": "Placeholder description for Wisdom (EQ) 21.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 21."
+          "human": "You exhibit profound awareness like a enlightened master, nearly prophetic.",
+          "metrics": "Mindful minutes/day ≈ 42 • Notice change ≈ 9 s"
         },
         "22": {
           "title": "Legendary",
-          "human": "Placeholder description for Wisdom (EQ) 22.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 22."
+          "human": "You exhibit profound awareness like a mythic oracle, nearly prophetic.",
+          "metrics": "Mindful minutes/day ≈ 44 • Notice change ≈ 8 s"
         },
         "23": {
           "title": "Mythic",
-          "human": "Placeholder description for Wisdom (EQ) 23.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 23."
+          "human": "You exhibit profound awareness like a legendary seer, nearly prophetic.",
+          "metrics": "Mindful minutes/day ≈ 46 • Notice change ≈ 7 s"
         },
         "24": {
           "title": "Titanic",
-          "human": "Placeholder description for Wisdom (EQ) 24.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 24."
+          "human": "You exhibit profound awareness like a planetary counselor, nearly prophetic.",
+          "metrics": "Mindful minutes/day ≈ 48 • Notice change ≈ 6 s"
         },
         "25": {
           "title": "Herculean",
-          "human": "Placeholder description for Wisdom (EQ) 25.",
-          "metrics": "Placeholder metrics for Wisdom (EQ) 25."
+          "human": "You exhibit profound awareness like a transcendent being, nearly prophetic.",
+          "metrics": "Mindful minutes/day ≈ 50 • Notice change ≈ 5 s"
         }
       }
     },
@@ -683,128 +683,128 @@
       "levels": {
         "1": {
           "title": "Pitiful",
-          "human": "Placeholder description for Charisma 1.",
-          "metrics": "Placeholder metrics for Charisma 1."
+          "human": "You repel attention like a slug, struggling to hold a conversation.",
+          "metrics": "Comfortable audience ≈ 4 people • Persuasion success ≈ 8%"
         },
         "2": {
           "title": "Feeble",
-          "human": "Placeholder description for Charisma 2.",
-          "metrics": "Placeholder metrics for Charisma 2."
+          "human": "You repel attention like a toad, struggling to hold a conversation.",
+          "metrics": "Comfortable audience ≈ 8 people • Persuasion success ≈ 11%"
         },
         "3": {
           "title": "Very Weak",
-          "human": "Placeholder description for Charisma 3.",
-          "metrics": "Placeholder metrics for Charisma 3."
+          "human": "You repel attention like a opossum, struggling to hold a conversation.",
+          "metrics": "Comfortable audience ≈ 12 people • Persuasion success ≈ 14%"
         },
         "4": {
           "title": "Frail",
-          "human": "Placeholder description for Charisma 4.",
-          "metrics": "Placeholder metrics for Charisma 4."
+          "human": "You repel attention like a housecat, struggling to hold a conversation.",
+          "metrics": "Comfortable audience ≈ 16 people • Persuasion success ≈ 17%"
         },
         "5": {
           "title": "Weak",
-          "human": "Placeholder description for Charisma 5.",
-          "metrics": "Placeholder metrics for Charisma 5."
+          "human": "You repel attention like a friendly dog, struggling to hold a conversation.",
+          "metrics": "Comfortable audience ≈ 20 people • Persuasion success ≈ 20%"
         },
         "6": {
           "title": "Below Average",
-          "human": "Placeholder description for Charisma 6.",
-          "metrics": "Placeholder metrics for Charisma 6."
+          "human": "Like a pony, you chat comfortably with friends.",
+          "metrics": "Comfortable audience ≈ 24 people • Persuasion success ≈ 23%"
         },
         "7": {
           "title": "Meager",
-          "human": "Placeholder description for Charisma 7.",
-          "metrics": "Placeholder metrics for Charisma 7."
+          "human": "Like a orator, you chat comfortably with friends.",
+          "metrics": "Comfortable audience ≈ 28 people • Persuasion success ≈ 26%"
         },
         "8": {
           "title": "Middling",
-          "human": "Placeholder description for Charisma 8.",
-          "metrics": "Placeholder metrics for Charisma 8."
+          "human": "Like a singer, you chat comfortably with friends.",
+          "metrics": "Comfortable audience ≈ 32 people • Persuasion success ≈ 29%"
         },
         "9": {
           "title": "Ordinary",
-          "human": "Placeholder description for Charisma 9.",
-          "metrics": "Placeholder metrics for Charisma 9."
+          "human": "Like a comedian, you chat comfortably with friends.",
+          "metrics": "Comfortable audience ≈ 36 people • Persuasion success ≈ 32%"
         },
         "10": {
           "title": "Average",
-          "human": "Placeholder description for Charisma 10.",
-          "metrics": "Placeholder metrics for Charisma 10."
+          "human": "Like a teacher, you chat comfortably with friends.",
+          "metrics": "Comfortable audience ≈ 40 people • Persuasion success ≈ 35%"
         },
         "11": {
           "title": "Able",
-          "human": "Placeholder description for Charisma 11.",
-          "metrics": "Placeholder metrics for Charisma 11."
+          "human": "You charm others like a leader, winning crowds.",
+          "metrics": "Comfortable audience ≈ 44 people • Persuasion success ≈ 38%"
         },
         "12": {
           "title": "Capable",
-          "human": "Placeholder description for Charisma 12.",
-          "metrics": "Placeholder metrics for Charisma 12."
+          "human": "You charm others like a politician, winning crowds.",
+          "metrics": "Comfortable audience ≈ 48 people • Persuasion success ≈ 41%"
         },
         "13": {
           "title": "Fit",
-          "human": "Placeholder description for Charisma 13.",
-          "metrics": "Placeholder metrics for Charisma 13."
+          "human": "You charm others like a activist, winning crowds.",
+          "metrics": "Comfortable audience ≈ 52 people • Persuasion success ≈ 44%"
         },
         "14": {
           "title": "Sturdy",
-          "human": "Placeholder description for Charisma 14.",
-          "metrics": "Placeholder metrics for Charisma 14."
+          "human": "You charm others like a tv host, winning crowds.",
+          "metrics": "Comfortable audience ≈ 56 people • Persuasion success ≈ 47%"
         },
         "15": {
           "title": "Strong",
-          "human": "Placeholder description for Charisma 15.",
-          "metrics": "Placeholder metrics for Charisma 15."
+          "human": "You charm others like a celebrity, winning crowds.",
+          "metrics": "Comfortable audience ≈ 60 people • Persuasion success ≈ 50%"
         },
         "16": {
           "title": "Very Strong",
-          "human": "Placeholder description for Charisma 16.",
-          "metrics": "Placeholder metrics for Charisma 16."
+          "human": "Your presence matches a influencer, commanding rooms effortlessly.",
+          "metrics": "Comfortable audience ≈ 64 people • Persuasion success ≈ 53%"
         },
         "17": {
           "title": "Mighty",
-          "human": "Placeholder description for Charisma 17.",
-          "metrics": "Placeholder metrics for Charisma 17."
+          "human": "Your presence matches a stage actor, commanding rooms effortlessly.",
+          "metrics": "Comfortable audience ≈ 68 people • Persuasion success ≈ 56%"
         },
         "18": {
           "title": "Elite",
-          "human": "Placeholder description for Charisma 18.",
-          "metrics": "Placeholder metrics for Charisma 18."
+          "human": "Your presence matches a pop star, commanding rooms effortlessly.",
+          "metrics": "Comfortable audience ≈ 72 people • Persuasion success ≈ 59%"
         },
         "19": {
           "title": "Exceptional",
-          "human": "Placeholder description for Charisma 19.",
-          "metrics": "Placeholder metrics for Charisma 19."
+          "human": "Your presence matches a cult leader, commanding rooms effortlessly.",
+          "metrics": "Comfortable audience ≈ 76 people • Persuasion success ≈ 62%"
         },
         "20": {
           "title": "World-Class",
-          "human": "Placeholder description for Charisma 20.",
-          "metrics": "Placeholder metrics for Charisma 20."
+          "human": "Your presence matches a national leader, commanding rooms effortlessly.",
+          "metrics": "Comfortable audience ≈ 80 people • Persuasion success ≈ 65%"
         },
         "21": {
           "title": "Phenomenal",
-          "human": "Placeholder description for Charisma 21.",
-          "metrics": "Placeholder metrics for Charisma 21."
+          "human": "You inspire masses like a world diplomat, shaping movements and history.",
+          "metrics": "Comfortable audience ≈ 84 people • Persuasion success ≈ 68%"
         },
         "22": {
           "title": "Legendary",
-          "human": "Placeholder description for Charisma 22.",
-          "metrics": "Placeholder metrics for Charisma 22."
+          "human": "You inspire masses like a revered icon, shaping movements and history.",
+          "metrics": "Comfortable audience ≈ 88 people • Persuasion success ≈ 71%"
         },
         "23": {
           "title": "Mythic",
-          "human": "Placeholder description for Charisma 23.",
-          "metrics": "Placeholder metrics for Charisma 23."
+          "human": "You inspire masses like a legendary performer, shaping movements and history.",
+          "metrics": "Comfortable audience ≈ 92 people • Persuasion success ≈ 74%"
         },
         "24": {
           "title": "Titanic",
-          "human": "Placeholder description for Charisma 24.",
-          "metrics": "Placeholder metrics for Charisma 24."
+          "human": "You inspire masses like a global figure, shaping movements and history.",
+          "metrics": "Comfortable audience ≈ 96 people • Persuasion success ≈ 77%"
         },
         "25": {
           "title": "Herculean",
-          "human": "Placeholder description for Charisma 25.",
-          "metrics": "Placeholder metrics for Charisma 25."
+          "human": "You inspire masses like a visionary hero, shaping movements and history.",
+          "metrics": "Comfortable audience ≈ 100 people • Persuasion success ≈ 80%"
         }
       }
     }
